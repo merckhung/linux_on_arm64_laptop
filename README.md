@@ -21,7 +21,7 @@ My progress about running Linux on Microsoft Dev Kit 2023 (Qualcomm SC8280XP gen
 7. Bluetooth doesn't work yet
 
 ## Kernel source (DTB and defconfig)
-1. To be uploaded
+1. [Linux kernel](https://github.com/merckhung/linux_ms_dev_kit/tree/ms-dev-kit-2023)
 
 # Samsung Galaxy Go
 My progress about running Linux on Samsung Galaxy Go (Qualcomm SC7180 gen2)
