@@ -17,7 +17,7 @@ My progress about running Linux on Microsoft Dev Kit 2023 (Qualcomm SC8280XP gen
 3. NVMe works
 4. USB Type-C works
 5. Boots into Ubuntu Linux ARM64 kinetic
-6. Wi-Fi doesn't work yet
+6. Wi-Fi driver works, but have not been tested yet
 7. Bluetooth doesn't work yet
 
 ## Kernel source (DTB and defconfig)
