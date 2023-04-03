@@ -9,11 +9,13 @@ My progress about running Linux on Thinkpad X13s (Qualcomm SC8280XP gen3)
 1. [Linaro kernel work](https://git.linaro.org/people/manivannan.sadhasivam/linux.git)
 2. [Steev's kernel work](https://github.com/steev/linux.git)
 3. Battery management: [qrtr](https//github.com/andersson/qrtr.git), [pd-mapper](https://github.com/andersson/pd-mapper.git)
+4. Ubuntu concept team - [x13s] (https://launchpad.net/~ubuntu-concept/+archive/ubuntu/x13s)
 
 ## Functionality
 1. With Ubuntu 23.04 (Development Build)
 2. Steev's Linux on linux-6.3-rc4 branch (laptop_defconfig, built-in ext4 and NVMe drivers)
 3. GPU works (a690_gmu.bin & a690_sqe.fw), bluetooth works, 5G Wi-Fi works (board-2.bin), Sound works (SC8280XP-LENOVO-X13S-tplg.bin)
+4. [Watch the video](https://twitter.com/merckhung/status/1642802461177155584)
 
 # Microsoft Dev Kit 2023
 My progress about running Linux on Microsoft Dev Kit 2023 (Qualcomm SC8280XP gen3)
