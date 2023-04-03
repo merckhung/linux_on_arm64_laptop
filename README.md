@@ -20,10 +20,14 @@ My progress about running Linux on Thinkpad X13s (Qualcomm SC8280XP gen3)
 
 # Microsoft Dev Kit 2023
 My progress about running Linux on Microsoft Dev Kit 2023 (Qualcomm SC8280XP gen3)
+
+![229471066-4e6c36de-13b4-44e5-9cf3-dfba9df92154](https://user-images.githubusercontent.com/1893015/229475366-cc29da80-dd7a-4d80-9366-df4452dbaffa.jpeg)
+
 1. USB Type-A doesn't work yet
 2. DisplayPort doesn't work yet
 3. NVMe works
-4. USB Type-C works
+4. USB Type-C works!
+
 5. Boots into Ubuntu Linux ARM64 kinetic
 6. Wi-Fi driver works, but have not been tested yet
 7. Bluetooth doesn't work yet
