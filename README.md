@@ -34,6 +34,8 @@ My progress about running Linux on Microsoft Dev Kit 2023 (Qualcomm SC8280XP gen
 # Samsung Galaxy Go
 My progress about running Linux on Samsung Galaxy Go (Qualcomm SC7180 gen2)
 
+![198504487-5b67ad7a-3e8d-4623-9db2-e276fda4a162](https://user-images.githubusercontent.com/1893015/229474877-8e6feeb1-ce5c-4369-9ca6-22e8ebace527.jpeg)
+
 ## With ACPI
 1. Boots into Ubuntu Linux ARM64 kinetic
 2. USB works
