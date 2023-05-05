@@ -37,6 +37,22 @@ My progress about running Linux on Microsoft Dev Kit 2023 (Qualcomm SC8280XP gen
 ## Kernel source (DTB and defconfig)
 1. [Linux kernel](https://github.com/merckhung/linux_ms_dev_kit)
 
+# Lenovo Flex 5G
+My progress about running Linux on Lenovo Flex 5G (Qualcomm SC8180X gen2)
+
+![FvIeDVBaMAArM5d](https://user-images.githubusercontent.com/1893015/236382365-912fb55e-9324-48c2-8de4-ba4f129564d0.jpeg)
+
+1. USB works.
+2. UFS works.
+3. Adreno GPU works.
+4. Boots into Ubuntu Linux ARM64 23.04
+5. Wi-Fi does not work yet.
+6. Bluetooth works.
+7. Keyboard and touchpad work.
+
+## Kernel source (DTB and defconfig)
+1. To be uploaded
+
 # Samsung Galaxy Go
 My progress about running Linux on Samsung Galaxy Go (Qualcomm SC7180 gen2)
 
