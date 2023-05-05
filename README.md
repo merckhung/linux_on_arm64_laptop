@@ -21,19 +21,21 @@ My progress about running Linux on Thinkpad X13s (Qualcomm SC8280XP gen3)
 # Microsoft Dev Kit 2023
 My progress about running Linux on Microsoft Dev Kit 2023 (Qualcomm SC8280XP gen3)
 
-![229471066-4e6c36de-13b4-44e5-9cf3-dfba9df92154](https://user-images.githubusercontent.com/1893015/229475366-cc29da80-dd7a-4d80-9366-df4452dbaffa.jpeg)
+![235426362-0b8373fd-c94b-4f58-8c58-459c5a903e88](https://user-images.githubusercontent.com/1893015/236382162-7abab2da-8004-42ab-b0d8-e97f0965784e.jpeg)
 
-1. USB Type-A doesn't work yet
-2. DisplayPort doesn't work yet
-3. NVMe works
-4. USB Type-C works!
-
-5. Boots into Ubuntu Linux ARM64 kinetic
-6. Wi-Fi driver works, but have not been tested yet
-7. Bluetooth doesn't work yet
+1. USB Type-A works.
+2. USB Ethernet works.
+3. DisplayPort over USB-C works.
+4. NVMe works.
+5. USB Type-C works.
+6. Adreno GPU works.
+7. Boots into Ubuntu Linux ARM64 23.04
+8. Wi-Fi works.
+9. Bluetooth works.
+10. mDP port does not work yet.
 
 ## Kernel source (DTB and defconfig)
-1. [Linux kernel](https://github.com/merckhung/linux_ms_dev_kit/tree/ms-dev-kit-2023)
+1. [Linux kernel](https://github.com/merckhung/linux_ms_dev_kit)
 
 # Samsung Galaxy Go
 My progress about running Linux on Samsung Galaxy Go (Qualcomm SC7180 gen2)
