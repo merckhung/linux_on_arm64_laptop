@@ -10,7 +10,7 @@ My progress about running Linux on Thinkpad X13s (Qualcomm SC8280XP gen3)
 ## Source code gathering
 1. [Linaro kernel work](https://git.linaro.org/people/manivannan.sadhasivam/linux.git)
 2. [Steev's kernel work](https://github.com/steev/linux.git)
-3. Battery management: [qrtr](https//github.com/andersson/qrtr.git), [pd-mapper](https://github.com/andersson/pd-mapper.git)
+3. Battery management: [qrtr](https://github.com/andersson/qrtr.git), [pd-mapper](https://github.com/andersson/pd-mapper.git)
 
 ## Functionality
 1. With Ubuntu 23.04 (Development Build)
